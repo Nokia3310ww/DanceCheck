@@ -14,8 +14,3 @@ Used to compare dance movements between the webcam feed and a pre-recorded pose 
 
 📄 pose_module.py
 Pose detection module using MediaPipe for extracting human body keypoints.
-
-ผู้ที่ร่วมทำใน project นี้ 
-นางสาว กวิสรา เหมะธุลิน
-นางสาว กิตติญาภรณ์ ดวงไกร
-นาย อภิรักษ์ นามวงษ์
